@@ -1,1 +1,1 @@
-web: python gjette_tall.py
+web: python gjett_tall.py
